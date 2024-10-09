@@ -31,7 +31,6 @@ d1=designfilt('lowpassiir',....
 
 fvtool(d1)
 
-
 %HPF FIR
 Fstop = 350;
 Fpass = 400;
